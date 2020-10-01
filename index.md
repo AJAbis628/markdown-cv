@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV I AM EDITING IT RIGHT NOW
+title: Lennart Nacke's CV
 ---
-# Isaac Newton
+# Lennart Nacke
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
