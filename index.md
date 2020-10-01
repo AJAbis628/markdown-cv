@@ -1,6 +1,10 @@
 ---
 layout: cv
 title: Lennart Nacke's CV
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 # Lennart Nacke
 Physicist, Mathematician, Cambridge professor.
